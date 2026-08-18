@@ -29,6 +29,9 @@ Email Me 👉 ✉️ **deepanshuchauhan2244@gmail.com** For Collaboration/Projec
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeepanshuChauhan4422&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeepanshuChauhan4422&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
