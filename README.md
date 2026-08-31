@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **deepanshuchauhan2244@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Full Stack Projects
+- 🔭 **I’m currently working on:** AI Applications
 - 🌱 **I’m currently learning:** AI Tools and Backend
 - 👯 **I’m looking to collaborate on:** Real Projects
 - 💬 **Ask me about:** "Turning ideas into intelligent software with Python, AI, and continuous learning."
